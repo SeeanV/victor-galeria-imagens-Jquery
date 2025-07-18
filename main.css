@@ -84,3 +84,11 @@ ul li img {
 ul li:hover .overlay-images-link {
     opacity: 1;
 }
+
+button:hover {
+    background-color: #22ad51;
+}
+
+#botao-cancelar:hover {
+    background-color: #fa6d83;
+}
